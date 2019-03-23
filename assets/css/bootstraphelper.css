@@ -1,0 +1,56 @@
+.tealbkg{
+    background-color: #4aaaa5;
+}
+.whitebkg{
+    background-color: #ffffff;
+}
+.greybkg{
+    background-color: #777777;
+}
+.bkwallpaper{
+    background-image: url(../images/mochaGrunge_@2X.png);
+}
+.tealwords{
+    color: #4aaaa5;
+}
+.whitewords{
+    color: #ffffff;
+}
+.greywords{
+    color:#777777;
+}
+.tealbdr{
+    border-top: 10px solid #4aaaa5;
+}
+.padadjust{
+    padding: 0px;
+}
+.widthadjust{
+    width: 400px;
+}
+.htadjust{
+    height: 100%;
+}
+.bdradjust{
+    border:-20px;
+}
+.jumboadjust{
+    margin-top: 50px; 
+    margin-bottom: 90px;
+}
+.cardwidth{
+    width: 200px;
+}
+.cntrtxt{
+    text-align: center;
+}
+img{
+    max-width: 200px;
+}
+.piclabel{
+    width: 200px;
+    padding: 5px;
+    position: relative;
+    top: -80px;
+    text-align: center;
+}
